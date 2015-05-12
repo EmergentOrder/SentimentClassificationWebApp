@@ -1,0 +1,84 @@
+2015-05-12 14:19:19,378 - [INFO] - from play in play-fork-run-akka.actor.default-dispatcher-6 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-05-12 14:19:21,067 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-05-12 14:19:21,267 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:22,527 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:25,011 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:25,871 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:26,839 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:26,885 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:27,421 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:27,434 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:27,912 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:27,919 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:28,540 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:29,465 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:29,470 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:29,851 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:29,857 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:30,032 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:30,038 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:30,183 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:30,189 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:30,328 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:30,335 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:30,483 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:30,488 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:30,981 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+{"category":"0","confidence":0.40335163474082947}
+
+2015-05-12 14:19:30,986 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
+2015-05-12 14:19:32,049 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+uuid is set to Some(e89180ee-e0a3-4b59-bcd5-3fca6b7c2d84)
+
