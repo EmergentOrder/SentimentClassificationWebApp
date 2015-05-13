@@ -62,11 +62,7 @@ object Application extends Controller {
   }
   
  def trainSentiment = Action { implicit request =>
-      val trainData = trainDataForm.bindFromRequest.get
-      val engineClient = new EngineClient(engineUrl)
-
-
-
+      val trainData = trainDataForm.bindFromRequest.get 
       val client = new EventClient(accessKey, eventUrl);
       val map = Map( "text" -> trainData.content.asInstanceOf[java.lang.Object],
         "category"-> trainData.category.asInstanceOf[java.lang.Object],
