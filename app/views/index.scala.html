@@ -16,13 +16,8 @@
         <ul id = "sentiments"></ul>
         
     </form>
-    <br>
-    
-    
     <form action = "@routes.Application.clearHistory()" method="post">
-        <br>
         <button>Clear History</button>
-        
     </form>
 
         <br>
@@ -32,7 +27,7 @@
         <textarea name="content" cols="40" rows="5">text for sentiment training</textarea><br>
         <input type="radio" name="category" value="1">Positive<br>
         <input type="radio" name="category" value="0">Negative<br>
-        <button name="trainButton">Submit training example, and retrain</button>
+        <button name="trainButton">Submit training example</button>
      </form>
    
 }

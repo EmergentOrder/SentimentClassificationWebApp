@@ -1,1 +1,1 @@
-$ -> $.get "/sentiments", (sentiments) -> $.each sentiments, (index, sentiment) -> $("#sentiments").append $("<li>").text sentiment.content + " : " + sentiment.probability
+$ -> $.get "/sentiments", (sentiments) -> $.each sentiments, (index, sentiment) -> $("#sentiments").append $("<li>").text sentiment.content + " | Predicted class: " + sentiment.category + " with probability: " + sentiment.probability
