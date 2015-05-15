@@ -54,7 +54,7 @@ object Application extends Controller {
       //val map = Map("text"-> list).asJava
       
       val response = engineClient.sendQuery(map)
-      val sentimentCategory = if (response.get("category").toString == "1") "'Positive'" else "'Negative'" 
+      val sentimentCategory = if (response.get("category").toString == "\"1\"") "'Positive'" else "'Negative'" 
       val sentimentConfidence = response.get("confidence").toString
       Logger.info(response.toString)
       DB.save(Sentiment(sentimentCategory, sentimentConfidence.toDouble, sentence.content,  request.session.get("uuid").getOrElse("default")))
